@@ -1,0 +1,10 @@
+html {
+    scroll-behavior: smooth;
+    font-family: Helvetica, sans-serif, Arial;
+}
+
+body {
+    margin: 0 auto;
+    background-color: rgb(243, 230, 230);
+    color: red;
+}
